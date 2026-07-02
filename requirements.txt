@@ -1,0 +1,13 @@
+# Core document & PDF parsing
+python-docx>=1.1.0
+pdfplumber>=0.11.0
+
+# Web / HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# AI (optional – only needed for AI-powered rewrite mode)
+openai>=1.30.0
+
+# GUI – tkinter is part of the Python standard library.
+# If tkinter is missing on your system see USER_GUIDE.md for install steps.
