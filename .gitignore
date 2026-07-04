@@ -1,0 +1,45 @@
+# Python virtual environment
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Generated run scripts
+run.sh
+run.bat
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# User configuration (contains API key – never commit)
+.resume_optimizer/
+
+# Test artefacts
+*.coverage
+htmlcov/
+.pytest_cache/
